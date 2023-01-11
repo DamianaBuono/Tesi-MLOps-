@@ -1,4 +1,4 @@
 # Tesi-MLOps-
 
 
-Questa repositori contine esecuzione dell'analisi della letteratur dei 18 documenti presi in considerazione. 
+Questa repository contiene l'esecuzione dell'analisi della letteratura dei 18 documenti presi in considerazione. 
